@@ -1,0 +1,6 @@
+.git
+.venv
+.vscode
+uploads
+backend/sit.db
+__pycache__

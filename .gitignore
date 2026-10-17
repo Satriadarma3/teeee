@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+.vscode/
+.vercel/
+backend/sit.db
+uploads/*
+!uploads/.gitkeep
